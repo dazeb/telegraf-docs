@@ -1,0 +1,226 @@
+repo_name: dazeb/telegraf-docs
+report_id: 2d154f06932888562149abda7fe42948
+version: 0.1
+repo_type: Public
+timestamp: '2024-02-29T19:26:45+00:00'
+requested_by: MKRhere
+provider: github
+branch: master
+detected_tools_count: 16
+tools:
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/dazeb/telegraf-docs/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Muthu Kumar
+  last_updated_on: 2023-03-05 08:17:55.000000000 Z
+- name: TypeScript
+  description: A superset of JavaScript that compiles to clean JavaScript output
+  website_url: http://www.typescriptlang.org
+  version: 4.9.5
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1612/bynNY5dJ.jpg
+  detection_source_url: https://github.com/dazeb/telegraf-docs/blob/master/examples/functions/aws-lambda/package-lock.json
+  detection_source: examples/functions/aws-lambda/package.json
+  last_updated_by: Muthu Kumar
+  last_updated_on: 2023-03-05 08:17:55.000000000 Z
+- name: ExpressJS
+  description: Sinatra inspired web development framework for node.js -- insanely
+    fast, flexible, and simple
+  website_url: http://expressjs.com/
+  version: 4.18.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Microframeworks (Backend)
+  image_url: https://img.stackshare.io/service/1163/hashtag.png
+  detection_source_url: https://github.com/dazeb/telegraf-docs/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Muthu Kumar
+  last_updated_on: 2023-03-05 08:17:55.000000000 Z
+- name: Fastify
+  description: Fast and low overhead web framework, for Node.js
+  website_url: http://www.fastify.io/
+  version: 4.14.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Microframeworks (Backend)
+  image_url: https://img.stackshare.io/service/7609/24939410.png
+  detection_source_url: https://github.com/dazeb/telegraf-docs/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Muthu Kumar
+  last_updated_on: 2023-03-05 08:17:55.000000000 Z
+- name: Koa
+  description: Next generation web framework for node.js
+  website_url: http://koajs.com/
+  version: 2.14.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Microframeworks (Backend)
+  image_url: https://img.stackshare.io/service/1726/5055057.png
+  detection_source_url: https://github.com/dazeb/telegraf-docs/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Muthu Kumar
+  last_updated_on: 2022-08-18 01:12:13.000000000 Z
+- name: Node.js
+  description: A platform built on Chrome's JavaScript runtime for easily building
+    fast, scalable network applications
+  website_url: http://nodejs.org/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png
+  detection_source_url: https://github.com/dazeb/telegraf-docs/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Muthu Kumar
+  last_updated_on: 2022-08-18 01:12:13.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/dazeb/telegraf-docs
+  detection_source: Repo Metadata
+- name: Telegraf
+  description: The plugin-driven server agent for collecting &amp; reporting metrics
+  website_url: https://www.influxdata.com/time-series-platform/telegraf/
+  version: 4.11.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Monitoring
+  sub_category: Monitoring Tools
+  image_url: https://img.stackshare.io/service/4480/YwbWN39g_400x400.jpg
+  detection_source_url: https://github.com/dazeb/telegraf-docs/blob/master/examples/functions/aws-lambda/package-lock.json
+  detection_source: examples/functions/aws-lambda/package.json
+  last_updated_by: Muthu Kumar
+  last_updated_on: 2023-03-05 08:17:55.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/dazeb/telegraf-docs/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Muthu Kumar
+  last_updated_on: 2022-08-18 01:12:13.000000000 Z
+- name: Serverless
+  description: The most widely-adopted toolkit for building serverless applications
+  website_url: https://github.com/serverless/serverless
+  version: 3.28.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Application Hosting
+  sub_category: Serverless / Task Processing
+  image_url: https://img.stackshare.io/service/5095/serverless-logo.png
+  detection_source_url: https://github.com/dazeb/telegraf-docs/blob/master/examples/functions/aws-lambda/package-lock.json
+  detection_source: examples/functions/aws-lambda/package.json
+  last_updated_by: Muthu Kumar
+  last_updated_on: 2023-03-05 08:17:55.000000000 Z
+- name: "@types/express"
+  description: TypeScript definitions for Express
+  package_url: https://www.npmjs.com/@types/express
+  version: 4.17.17
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16100/default_d947c1690e032a288145c7e2491999eab3ea8ede.png
+  detection_source_url: https://github.com/dazeb/telegraf-docs/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Muthu Kumar
+  last_updated_on: 2023-03-05 08:17:55.000000000 Z
+- name: "@types/koa"
+  description: TypeScript definitions for Koa
+  package_url: https://www.npmjs.com/@types/koa
+  version: 2.13.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16749/default_c795226b47ffe4cb32fcfeee29dd5b030544258a.png
+  detection_source_url: https://github.com/dazeb/telegraf-docs/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Muthu Kumar
+  last_updated_on: 2023-03-05 08:17:55.000000000 Z
+- name: "@types/node"
+  description: TypeScript definitions for Node.js
+  package_url: https://www.npmjs.com/@types/node
+  version: 18.14.6
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15809/default_5e5e8ac63beda29f31f1844df64d4b8247570a66.png
+  detection_source_url: https://github.com/dazeb/telegraf-docs/blob/master/examples/functions/aws-lambda/package-lock.json
+  detection_source: package.json
+  last_updated_by: Muthu Kumar
+  last_updated_on: 2023-03-05 08:17:55.000000000 Z
+- name: express
+  description: Fast, unopinionated, minimalist web framework
+  package_url: https://www.npmjs.com/express
+  version: 4.18.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15818/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
+  detection_source_url: https://github.com/dazeb/telegraf-docs/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Muthu Kumar
+  last_updated_on: 2023-03-05 08:17:55.000000000 Z
+- name: https-proxy-agent
+  description: An HTTP
+  package_url: https://www.npmjs.com/https-proxy-agent
+  version: 5.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17334/default_6afdd1bc7e3815a18b56c31d0b4acf372c00f6e2.png
+  detection_source_url: https://github.com/dazeb/telegraf-docs/blob/master/examples/functions/aws-lambda/package-lock.json
+  detection_source: package.json
+  last_updated_by: Muthu Kumar
+  last_updated_on: 2022-08-23 10:58:37.000000000 Z
+- name: koa-body
+  description: A Koa body parser middleware
+  package_url: https://www.npmjs.com/koa-body
+  version: 6.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17200/default_21a37a533dd8aea78721b028b3e7b47e018dcb48.png
+  detection_source_url: https://github.com/dazeb/telegraf-docs/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Muthu Kumar
+  last_updated_on: 2023-03-05 08:17:55.000000000 Z
